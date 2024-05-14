@@ -9,10 +9,12 @@
 <p align="center">
 As a Senior Engineer with a penchant for React, NextJS, and the ever-evolving realm of Web3, I’ve woven my expertise through the fabric of companies like ConsenSys and USAA. My journey has been a tapestry of code, community, and ceaseless curiosity.
   <br>
+  <p align="left">
   My professional saga began with the disciplined precision of a Nuclear Electronics Technician in the US Navy ⚓️, where I learned that the power of a reactor pales in comparison to the power of a well-crafted line of code. Transitioning to the tech industry, I found my stride in software development, where I’ve been fortunate to mentor under great devs at companies like Twitter and USAA. I have experience in Developer Relations and contribute to the open-source odyssey at ConsenSys. With such a diverse background in Science and Technology I have found myself onstage at conferences like Persmissionless and EthGlobal. I pride myself on being a stellar engineer and science communicator.
-  <br>
-  📫 How to reach me 👇
+  </p>
 </p>
+📫 How to reach me 👇
+<br>
 <p align="center"> <a href="https://linkedin.com/in/hayden-porter-aylor-8518521a5"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="haydenaylor911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010142580">
 <!--   <a href="https://github.com/Dax911/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
 
